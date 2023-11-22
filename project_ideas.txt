@@ -1,0 +1,1 @@
+//L'idée ici est de créer un éditeur de texte léger à interface graphique, pour voir ce qui est possible de faire.
